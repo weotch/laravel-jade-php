@@ -1,0 +1,23 @@
+{
+    "name": "cve/jade-php",
+    "description": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cve",
+            "email": "karolfiturski@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "5.0.*",
+        "illuminate/view": "5.0.*",
+        "ronan-gloo/jadephp": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cve\\": "src/Cve"
+        }
+    },
+    "minimum-stability": "stable"
+}
