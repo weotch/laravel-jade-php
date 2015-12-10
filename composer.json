@@ -12,7 +12,7 @@
         "php": ">=5.4.0",
         "illuminate/support": "5.0.*",
         "illuminate/view": "5.0.*",
-        "ronan-gloo/jadephp": "dev-master"
+        "ronan-gloo/jade-php": "dev-master"
     },
     "autoload": {
         "psr-4": {
